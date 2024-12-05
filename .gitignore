@@ -1,0 +1,15 @@
+# Ignore Python bytecode
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Ignore virtual environments
+venv/
+myprojectenv/
+
+# Ignore IDE settings
+.vscode/
+.idea/
+
+# Ignore macOS system files
+.DS_Store
